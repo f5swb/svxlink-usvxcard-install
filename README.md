@@ -4,6 +4,7 @@ scripts d'installations de la carte son usvxcard et de svxlink :
 1 - Préparation : 
 
 os : RASPBERRY PI OS LITE (32 bit) via Raspberry Pi Imager 
+
 sudo apt-get install git -y
 
 2 - Installation :
