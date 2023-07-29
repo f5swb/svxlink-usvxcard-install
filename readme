@@ -1,1 +1,9 @@
 scripts d'installations de la carte son usvxcard et de svxlink 
+
+cd /home/pi
+sudo wget https://
+sudo chmod +x uSvxinstall_fr (or uSvxinstall_gb)
+sudo bash uSvxinstall_fr
+
+
+
